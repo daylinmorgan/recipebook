@@ -14,7 +14,7 @@
       in
         with pkgs; {
           devShells.default = mkShell {
-            buildInputs = [hugo nodePackages.pnpm];
+            buildInputs = [hugo pnpm];
           };
         }
     );

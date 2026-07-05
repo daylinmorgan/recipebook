@@ -1,7 +1,6 @@
 baseURL = "https://recipes.dayl.in"
 canonifyurls = true
 defaultcontentlanguage = "en"
-languageCode = "en-us"
 title = "Recipe Book"
 
 [[menu.main]]

@@ -2,7 +2,7 @@
 layout: recipe
 date: 2026-07-10T13:31:09-04:00
 title: "Chili Verde Tortilla Soup" # The title of your awesome recipe
-image: xkcd720.png # Name of image in recipe bundle
+image: /images/xkcd720.png # Name of image in recipe bundle
 category: dinner
 cuisine: Mexican
 tags:
